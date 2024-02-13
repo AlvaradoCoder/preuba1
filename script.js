@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = '¡Oh Siii! jajaja<br>Te amo muchooo❤️<br>psdta: Eres el amor de mi vida y siempre lo seras✨';
+    document.getElementById('messageContainer').innerHTML = '¡Oh Siii! jajaja<br>Te amo mucho esposa❤️<br>psdta: Eres el amor de mi vida y siempre lo seras✨';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
